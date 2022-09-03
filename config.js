@@ -40,15 +40,15 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'Rzy-bot'
-global.author = 'Rzy-bot'
+global.packname = '\t\t「 ᴄʀᴇᴀᴛᴇᴅ ʙʏ xʟᴀᴡ xᴅ 」\n\t\t「 Instagram: dirgasa.xd 」\n\t\t「 Facebook: Dirga Ainz XD. 」\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+global.author = Rimurru-MD'
 
 global.wait = '「 ⏱️ 」Harap tunggu sebentar...'
 global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.watermark = '©Rimurru-MD' //change the watermark 
-global.image = 'https://telegra.ph/file/1a3eac3701775793618b3.jpg' //change the image
-global.thumbfoto = 'https://telegra.ph/file/ae6f7f701a5be2951648f.jpg'
+global.image = 'https://telegra.ph/file/6bf20cae43874e4709571.jpg' //change the image
+global.thumbfoto = 'https://telegra.ph/file/e14f52fcc302263fab0a0.jpg'
 
 global.multiplier = 999999 // Semakin tinggi, semakin sulit naik level
 
