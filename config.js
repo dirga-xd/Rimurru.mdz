@@ -46,7 +46,7 @@ global.author = 'ScrLxrd || MD'
 global.wait = '「 ⏱️ 」Harap tunggu sebentar...'
 global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '©Rimurru-MD' //change the watermark 
+global.watermark = '©ScrLxrd || MD' //change the watermark 
 global.image = 'https://telegra.ph/file/6bf20cae43874e4709571.jpg' //change the image
 global.thumbfoto = 'https://telegra.ph/file/e14f52fcc302263fab0a0.jpg'
 
