@@ -41,7 +41,7 @@ global.APIKeys = { // APIKey nya disini
 
 // Sticker WM
 global.packname = '\t\t「 ᴄʀᴇᴀᴛᴇᴅ ʙʏ xʟᴀᴡ xᴅ 」\n\t\t「 Instagram: dirgasa.xd 」\n\t\t「 Facebook: Dirga Ainz XD. 」\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.author = Rimurru-MD'
+global.author = 'ScrLxrd || MD'
 
 global.wait = '「 ⏱️ 」Harap tunggu sebentar...'
 global.eror = '「❗」Server ERROR!'
